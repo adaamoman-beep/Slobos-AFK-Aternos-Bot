@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "M5555.aternos.me",
-    "port": 64479,
+    "port":64479,
     "version": "",
     "try-creative": false
   },
